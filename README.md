@@ -28,7 +28,7 @@ In this challenge, I created a responsive Blog Preview Card component that inclu
 
 Screenshot
 
-
+![alt text](<Screenshot .png>)
 
 Links
 
