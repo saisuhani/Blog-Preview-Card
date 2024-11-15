@@ -32,7 +32,7 @@ Screenshot
 
 Links
 
-Live Site URL: 
+Live Site URL: https://saisuhani.github.io/Blog-Preview-Card/
 
 My Process
 
